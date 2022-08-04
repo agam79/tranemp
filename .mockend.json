@@ -1,5 +1,8 @@
 {
   "User" : {
     "title" : {"string" : ["test", "gaurav", "vibhore"]}
+  },
+  "Post" : {
+    "title" : {"string" : ["hi", "bye", "jai"]}
   }
 }
